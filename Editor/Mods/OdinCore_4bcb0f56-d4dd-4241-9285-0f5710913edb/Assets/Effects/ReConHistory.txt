@@ -1,0 +1,3 @@
+maxout
+addSkill Projectile_Fireball 
+[HistoryLimit]30

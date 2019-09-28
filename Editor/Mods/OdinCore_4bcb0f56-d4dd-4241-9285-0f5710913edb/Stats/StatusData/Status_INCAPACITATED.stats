@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="05f87e82-499d-4e0b-8dd7-859b8b3e5beb">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_DEEPFREEZE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="BringIntoCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Frozen Tomb" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="A shroud of ice freezes them in places and renders them invulnerable to damage." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="statIcons_Frozen" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="23" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Permafrost_01" />
+        <field name="StatusEffectOverrideForItems" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Item_Frozen_01" />
+        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="MaterialType" />
+        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="3000" />
+        <field name="MaterialParameters" type="StringStatObjectFieldDefinition" value="freezeDirection:SourceDirection" />
+        <field name="SoundStart" type="StringStatObjectFieldDefinition" value="Status_Tex_Frozen_Start" />
+        <field name="SoundLoop" type="StringStatObjectFieldDefinition" value="Status_Tex_Frozen_Loop" />
+        <field name="SoundStop" type="StringStatObjectFieldDefinition" value="Status_Tex_Frozen_Stop" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_PermaFrost" />
+        <field name="FreezeTime" type="IntegerStatObjectFieldDefinition" value="3000" />
+        <field name="ApplyStatusOnTick" type="StringStatObjectFieldDefinition" value="OdinWater_DEEPFREEZE_DAMAGE" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+        <field name="ImmuneFlag" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="AttributeFlag" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_TRANSFIXED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Transfixed" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character is paralysed with fear and is unable to perform actions." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="Skill_Decay_SilencingStare" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="15" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinNECRO_Status_Transfixed_01:Dummy_OverheadFX" />
+        <field name="StatusEffectOverrideForItems" type="StringStatObjectFieldDefinition" value="OdinNECRO_Status_Transfixed_01" />
+        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="MaterialType" />
+        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_TRANSFIXED" />
+        <field name="FreezeTime" type="IntegerStatObjectFieldDefinition" value="0" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_TRANSFIXED" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

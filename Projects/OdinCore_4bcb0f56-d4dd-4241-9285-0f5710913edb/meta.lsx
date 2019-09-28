@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" time="1536677879" />
+    <version major="3" minor="6" revision="0" build="4" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="Module" value="4bcb0f56-d4dd-4241-9285-0f5710913edb" type="23" />
+            <attribute id="Name" value="OdinCore" type="23" />
+            <attribute id="Type" value="Add-on" type="23" />
+            <attribute id="UUID" value="5893cdad-941f-4849-965c-e816da7a5842" type="23" />
+        </node>
+    </region>
+</save>

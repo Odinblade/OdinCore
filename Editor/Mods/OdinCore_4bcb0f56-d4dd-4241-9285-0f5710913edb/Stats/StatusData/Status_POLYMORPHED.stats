@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="ee4c30a6-9728-40e1-9722-b8a1ec68599e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinGEO_Squirrel" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Nature's Decree" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Can't attack, cast or interact with objects." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBGEO_Status_Squirrel" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="27" enumeration_type_name="FormatStringColor" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+        <field name="ImmuneFlag" type="EnumerationStatObjectFieldDefinition" value="50" enumeration_type_name="AttributeFlag" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinGEO_DecreePoly" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_Polymorphing" />
+        <field name="LoseControl" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="PolymorphResult" type="StringStatObjectFieldDefinition" value="789b47b7-273e-4bee-bf79-6f5ca60cda6a" />
+        <field name="DisableInteractions" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="ApplyEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_UI_CC_Transition_Fast_01" />
+        <field name="SoundStart" type="StringStatObjectFieldDefinition" value="Animals_Squirrel_ABC_Hit_01" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinGEO_Rabbit" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Nature's Decree" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Can't attack, cast or interact with objects." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBGEO_Status_Rabbit" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="27" enumeration_type_name="FormatStringColor" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="33" enumeration_type_name="SavingThrow" />
+        <field name="ImmuneFlag" type="EnumerationStatObjectFieldDefinition" value="50" enumeration_type_name="AttributeFlag" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinGEO_DecreePoly" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_Polymorphing" />
+        <field name="LoseControl" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="PolymorphResult" type="StringStatObjectFieldDefinition" value="51c48f0b-4a8f-4b5c-8466-7de7f0bbc40a" />
+        <field name="DisableInteractions" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="ApplyEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_UI_CC_Transition_Fast_01" />
+        <field name="SoundStart" type="StringStatObjectFieldDefinition" value="Animals_Rabbit_ABC_Hit_02" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinGEO_TitanForm" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Shapeshift: Clay Sentinel" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBGEO_Skill_Shapeshift_Sentinel" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="27" enumeration_type_name="FormatStringColor" />
+        <field name="ImmuneFlag" type="EnumerationStatObjectFieldDefinition" value="50" enumeration_type_name="AttributeFlag" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinGEO_TitanForm" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_Polymorphing" />
+        <field name="PolymorphResult" type="StringStatObjectFieldDefinition" value="8941a9f3-8f47-4aac-93b4-43bce61dbb04" />
+        <field name="ApplyEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_UI_CC_Transition_Fast_01" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character is temporarily &lt;font color='#F7BA14'&gt;Shapeshifted&lt;/font&gt;." />
+        <field name="Skills" type="StringStatObjectFieldDefinition" value="Shout_OdinGEO_Shapeshift_Revert" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_Frog" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Witches Brew" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Can't attack, cast or interact with objects." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBNECRO_Skill_WitchesBrew" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="27" enumeration_type_name="FormatStringColor" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+        <field name="ImmuneFlag" type="EnumerationStatObjectFieldDefinition" value="50" enumeration_type_name="AttributeFlag" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_WITCHESBREW" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_Polymorphing" />
+        <field name="LoseControl" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="PolymorphResult" type="StringStatObjectFieldDefinition" value="e80c6c51-4b60-498e-91ca-483084870b3c" />
+        <field name="DisableInteractions" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="ApplyEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_UI_CC_Transition_Fast_01" />
+        <field name="SoundStart" type="StringStatObjectFieldDefinition" value="Animals_Frog_Giant_ABC_Spawn_01" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

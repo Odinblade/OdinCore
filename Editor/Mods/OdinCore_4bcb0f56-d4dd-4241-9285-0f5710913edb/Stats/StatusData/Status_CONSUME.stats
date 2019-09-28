@@ -1,0 +1,1719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e2a8d59b-0e34-4a7c-bf5f-db7a2bb34cde">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_ShadeToggle" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="TEST" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_Exposed1" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Exposed" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&quot;The Umbra will restore Order to the world...&quot;" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Status_Exposed_1" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="3" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_SHADEExposed1" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_SHADEExposed" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_Peril1" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Status_Peril_1" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="4" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_SHADEPeril1" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_SHADEPeril" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Peril" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&quot;The Umbra will plunge the world into Chaos...&quot;" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_Exposed2" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Status_Exposed_2" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="3" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_SHADEExposed2" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_SHADEExposed" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Exposed" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&quot;The Umbra will restore Order to the world...&quot;" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_Exposed3" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Status_Exposed_3" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="3" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_SHADEExposed3" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_SHADEExposed" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Exposed" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&quot;The Umbra will restore Order to the world...&quot;" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="3" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_Peril2" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Status_Peril_2" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="4" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_SHADEPeril2" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_SHADEPeril" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Peril" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&quot;The Umbra will plunge the world into Chaos...&quot;" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_Peril3" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Status_Peril_3" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="4" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_SHADEPeril3" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_SHADEPeril" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Peril" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&quot;The Umbra will plunge the world into Chaos...&quot;" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="3" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_HUMAPReturn" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Focus" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&quot;A skillful display...&quot;" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Status_Focus" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="3" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_SHADEHUMAPReturn" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_SHADEHUMAPReturn" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_SHADEAPReturn" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Determined" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&quot;A skillful display...&quot;" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Status_Determined" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="4" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_SHADESHADEAPReturn" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_SHADESHADEAPReturn" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_HUMSourceAP" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Resourceful" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&quot;Why make a big display when you can just kill your target instead?&quot;" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Skill_Resourcefulness" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="3" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_SHADEHUMSourceAP" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_SHADEHUMSourceAP" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_SHADESourceAP" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Resourceful" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&quot;Why make a big display when you can just kill your target instead?&quot;" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Skill_SourceOfFerocity" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="4" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_SHADESHADESourceAP" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_SHADEHUMSourceAP" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_BladeChallenged_Win" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Blade Challenge Won" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="|Character was victorious in a recent Challenge.|" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Status_ChallengeBlade_Win" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="8" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Challenged_Won_01:Dummy_BodyFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_BladeChallenge_Win" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_ShadeChallenge" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_BladeChallenged_Loss" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Blade Challenge Lost" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="|Character suffers consequences of loosing a Challenge.|" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Status_ChallengeBlade_Lose" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="4" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Challenged_Lost_01:Dummy_BodyFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_BladeChallenge_Loss" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_ShadeChallenge" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_ShadeChallenged_Win" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Shade Challenge Won" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="|Character was victorious in a recent Challenge.|" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Status_ChallengeBlade_Win" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="8" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Challenged_Won_01:Dummy_BodyFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_ShadeChallenge_Win" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_ShadeChallenge" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_ShadeChallenged_Loss" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Shade Challenge Lost" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="|Character suffers consequences of loosing a Challenge.|" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Status_ChallengeBlade_Lose" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="4" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Challenged_Lost_01:Dummy_BodyFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_ShadeChallenge_Loss" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_ShadeChallenge" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_PreemptiveTactics" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Preemptive Tactics" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&quot;I'm going in for the kill...&quot;" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Skill_PreemptiveTactics" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="3" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_ShadePreemptiveTactics" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_PreemptiveTactics" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_RetreatIntoShadow" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Retreat Into Shadow" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&quot;I'll get 'em next time...&quot;" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Skill_RetreatIntoShadow" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="4" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_ShadeRetreatIntoShadow" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stats_ShadeRetreatIntoShadow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_RetreatIntoShadowUndead" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Retreat Into Shadow" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&quot;I'll get 'em next time...&quot;" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Skill_RetreatIntoShadow" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="4" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_ShadeRetreatIntoShadowUndead" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stats_ShadeRetreatIntoShadow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="SHADE_UmbralExpertise" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Umbral Expertise" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&quot;We have mastered aiming for the weak-spot...&quot;" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBUMBRA_Skill_UmbralExpertise" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="11" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_ShadeUmbralExpertise" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stats_ShadeUmbralExpertise" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_PURGED5_REMOVED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_MORDANT" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Mordant" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Mild afflication to bestow torment; a worthy sacrifice." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Skill_UnholyRitual" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="7" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Mordant" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Mordant" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_WITHER" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Wither" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Why fight death? Embrace it..." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Status_Wither" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="7" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Wither" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Wither" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Slowed_01" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="33" enumeration_type_name="SavingThrow" />
+        <field name="ImmuneFlag" type="EnumerationStatObjectFieldDefinition" value="17" enumeration_type_name="AttributeFlag" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_CURSE_VULNERABLE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Curse: Vulnerable" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="A target may be afflicted by a maximum of one curse at a time." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Skill_Curse_Vulnerable" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="26" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Curse_Vulnerable" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Curse" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_CURSE_WEAKNESS" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Curse: Weakness" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="A target may be afflicted by a maximum of one curse at a time." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Skill_Curse_Weakness" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="26" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Curse_Weakness" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Curse" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_CURSE_INEPT" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Curse: Inept" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="A target may be afflicted by a maximum of one curse at a time." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Skill_Curse_Inept" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="26" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Curse_Inept" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Curse" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_DREAD" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Dread" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Scared? You should be..." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Status_Dread" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="7" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Dread" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Dread" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_PERISH" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Perish" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="The end is nigh; this is just the beginning..." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Skill_CruelIntent" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="7" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Perish" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Perish" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_PACT_ARTILLERY" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Pact: Artillery" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="You may have a maximum of one pact at a time.&lt;br&gt;&lt;font color=&quot;#40b606&quot;&gt;Range: +4m&lt;/font&gt;" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Skill_Pact_Artillery" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="15" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Pact_Artillery" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Pact" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="0" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_DeathResist_01:Dummy_BodyFX" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_PACT_IMMORTALITY" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Pact: Immortality" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="You may have a maximum of one pact at a time.&lt;br&gt;&lt;font color=&quot;#40b606&quot;&gt;Vitality cannot fall below 1HP&lt;/font&gt;" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Skill_Pact_Immortality" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_DeathResist_01:Dummy_BodyFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Pact_Immortality" />
+        <field name="IsResistingDeath" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="15" enumeration_type_name="FormatStringColor" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Pact" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_PACT_BRUTALITY" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Pact: Brutality" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="You may have a maximum of one pact at a time." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Skill_Pact_Brutality" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Pact_Brutality" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Pact" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="0" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="15" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_DeathResist_01:Dummy_BodyFX" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_PROC_UNDERHANDED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_UNDERHANDEDBARGAIN" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Underhanded Bargain" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="It's so easy to exploit stupidity..." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Skill_UnderhandedBargain" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="7" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_UnderhandedBargain" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_UnderhandedBargain" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_SEEDOFMALICE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Seed of Malice" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Upon removal or expiry, the character will explode, dealing massive &lt;font color=&quot;#c80030&quot;&gt;piercing damage&lt;/font&gt; and applying &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; to nearby targets." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Skill_SeedOfMalice" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="7" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinSpectre_Seed_01:Dummy_OverheadFX" />
+        <field name="LeaveAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinSpectre_SeedOfMalice_Explode" />
+        <field name="DieAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinSpectre_SeedOfMalice_Explode" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_SeedOfMalice" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_SeedOfMalice" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_LAMENTED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Lamented" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="The river calls you..." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Status_Lamented" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="7" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Lamented" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Lamented" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Slowed_01" />
+        <field name="ImmuneFlag" type="EnumerationStatObjectFieldDefinition" value="17" enumeration_type_name="AttributeFlag" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_EXALTED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Exalted" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="The river speaks to me..." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Status_Exalted" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="7" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Exalted" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Exalted" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_CURSE_VULNERABLE_AURA" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Curse Aura: Vulnerable" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="A target may be afflicted by a maximum of one curse at a time. &lt;br&gt;Enemies within 6m are also cursed." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Skill_Curse_Vulnerable" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="26" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Curse_Vulnerable" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Curse" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="AuraRadius" type="IntegerStatObjectFieldDefinition" value="6" />
+        <field name="AuraAllies" type="StringStatObjectFieldDefinition" value="OdinSpectre_CURSE_VULNERABLE" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_CURSE_WEAKNESS_AURA" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Curse Aura: Weakness" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="A target may be afflicted by a maximum of one curse at a time. &lt;br&gt;Enemies within 6m are also cursed." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Skill_Curse_Weakness" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="26" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Curse_Weakness" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Curse" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="AuraRadius" type="IntegerStatObjectFieldDefinition" value="6" />
+        <field name="AuraAllies" type="StringStatObjectFieldDefinition" value="OdinSpectre_CURSE_WEAKNESS" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_CURSE_INEPT_AURA" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Curse Aura: Inept" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="A target may be afflicted by a maximum of one curse at a time. &lt;br&gt;Enemies within 6m are also cursed." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Skill_Curse_Inept" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="26" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Curse_Inept" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Curse" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="AuraRadius" type="IntegerStatObjectFieldDefinition" value="6" />
+        <field name="AuraAllies" type="StringStatObjectFieldDefinition" value="OdinSpectre_CURSE_INEPT" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_PROC_CURSE_AURA" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_PROC_TERRIBLEFATE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_ASCENDED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Ascended" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Rise above life and death..." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBSPECTRE_Status_Ascended" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="7" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinSpectre_Ascended" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinSpectre_Ascended" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Apotheosis_StatusFX_01:Dummy_StatusFX" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_PROC_BANSHEEDEAF" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Deaf" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_PROC_AGONY" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_FORCE_AGONY1" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_FORCE_AGONY2" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_FORCE_AGONY3" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_FORCE_AGONY4" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinSpectre_FORCE_AGONY5" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_CHILLED_AURA" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Chilled Aura" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Nearby enemies become Chilled." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBHYDRO_Skill_FuryOfTheNorth" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="23" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinWater_Aura_Chilled_01,KeepRot:Dummy_BodyFX;OdinWater_Aura_Chilled_02,KeepRot:Dummy_Root" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinWater_Chilled_Aura" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinWater_Chilled_Aura" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="AuraRadius" type="IntegerStatObjectFieldDefinition" value="5" />
+        <field name="AuraEnemies" type="StringStatObjectFieldDefinition" value="CHILLED" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_RIDETIDE_3" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Low Tide" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBHYDRO_Status_RIDETIDE_1" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="23" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinWater_Prepare_Hand_01:Dummy_L_HandFX,Dummy_R_HandFX" />
+        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="MaterialType" />
+        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="3000" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinWater_RideTide_1" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinWater_RideTide" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="3" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_RIDETIDE_2" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="High Tide" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBHYDRO_Status_RIDETIDE_2" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="23" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinWater_Prepare_Hand_01:Dummy_L_HandFX,Dummy_R_HandFX" />
+        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="3000" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinWater_RideTide_2" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinWater_RideTide" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_RIDETIDE_1" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Low Tide" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBHYDRO_Status_RIDETIDE_1" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="23" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinWater_Prepare_Hand_01:Dummy_L_HandFX,Dummy_R_HandFX" />
+        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="3000" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinWater_RideTide_1" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinWater_RideTide" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_SWIFTCURRENT" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Swift Current" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBHYDRO_Status_SWIFTCURRENT" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="23" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Slowed_01" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinWater_SwiftCurrent" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinWater_SwiftCurrent" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="&lt;font color=&quot;#88a25b&quot;&gt;Movement Speed: 30% &lt;br&gt;Dodging: 15%&lt;/font&gt;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_SLOWCURRENT" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Slow Current" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBHYDRO_Status_SLOWCURRENT" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="23" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Slowed_01" />
+        <field name="ImmuneFlag" type="EnumerationStatObjectFieldDefinition" value="17" enumeration_type_name="AttributeFlag" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinWater_SlowCurrent" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinWater_SlowCurrent" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_PROC_HEALINGTEAR" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_PROC_SCALDED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_NOCHECK_HYPOTHERMIA" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_PROC_HYPOTHERMIA" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_FROZENBULWARK" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Frozen Bulwark" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Maximum Magic Armor increased." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBHYDRO_Skill_FrozenBulwark" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="7" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Frozen_01:Dummy_BodyFX" />
+        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="MaterialType" />
+        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="3000" />
+        <field name="MaterialParameters" type="StringStatObjectFieldDefinition" value="CharacterHeight:Height" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinWater_FrozenBulwark" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinWater_FrozenBulwark" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_ROOTED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Rooted" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="You are rooted in place and cannot move." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBHYDRO_Status_ROOTED" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="7" enumeration_type_name="FormatStringColor" />
+        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="MaterialType" />
+        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="3000" />
+        <field name="SoundStart" type="StringStatObjectFieldDefinition" value="Status_Tex_Diseased_Start" />
+        <field name="SoundLoop" type="StringStatObjectFieldDefinition" value="Status_Tex_Diseased_Loop" />
+        <field name="SoundStop" type="StringStatObjectFieldDefinition" value="Status_Tex_Diseased_Stop" />
+        <field name="ImmuneFlag" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="AttributeFlag" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinWater_Rooted" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinWater_Rooted" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_WATERSPOUT_PROC" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_FROSTBLADE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Hydrobrand" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBHYDRO_Skill_Frostblade" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="23" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinWater_Prepare_Hand_01:Dummy_L_HandFX,Dummy_R_HandFX;OdinWater_WeaponOverlay_01;" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinWater_Frostblade" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinWater_Frostblade" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_ICESHARD_PROC" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_DAMPENED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Dampened" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Your waves crash no more." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBHYDRO_Status_DAMPENED" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="23" enumeration_type_name="FormatStringColor" />
+        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="MaterialType" />
+        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="3000" />
+        <field name="SoundStart" type="StringStatObjectFieldDefinition" value="Status_Tex_Diseased_Start" />
+        <field name="SoundLoop" type="StringStatObjectFieldDefinition" value="Status_Tex_Diseased_Loop" />
+        <field name="SoundStop" type="StringStatObjectFieldDefinition" value="Status_Tex_Diseased_Stop" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinWater_Dampened" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinWater_Dampened" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_EBB_DAMAGE_PROC" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_BURSTHEAL_PROC" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinPyro_SNARED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Snared" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Unable to move or dodge. Can not be targeted by teleportation skills." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBPYRO_Status_Snared" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroSnared" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroSnared" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinPyro_BLAZING" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Blazing" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Mastery of flames at a cost of water weakness." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBPYRO_Skill_SelfImmolation" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_FireImmunity_Root_01,KeepRot;" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroBlazing" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroBlazing" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinPyro_FLAMEBELLY" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Flamebelly" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Flames course through your veins." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBPYRO_Skill_DevourFlames" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_FireImmunity_Root_01,KeepRot;" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroFlamebelly" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroFlamebelly" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinPyro_SMOLDER" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Smoldered" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Cursed by flames." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBPYRO_Status_Smolder" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroSmolder" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroSmolder" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinPyro_PURIFYINGFIRE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Purifying Fire" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBPYRO_Skill_PurifyingFire" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroPurifyingFire" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroPurifyingFire" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinPyro_PURIFYINGFIRE_ENEMY" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Purifying Fire" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBPYRO_Skill_PurifyingFire" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroPurifyingFire" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroPurifyingFire" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinPyro_INCINERATEPROC" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroPurifyingFire" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroPurifyingFire" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Incinerate" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinPyro_SMOLDER_AURA" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Smoldered Aura" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Cursed by flames." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBPYRO_Status_Smolder" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroSmolder_Aura" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroSmolder" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="AuraRadius" type="IntegerStatObjectFieldDefinition" value="6" />
+        <field name="AuraAllies" type="StringStatObjectFieldDefinition" value="OdinPyro_SMOLDER" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinPyro_PHOENIXIANREVIVAL" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Phoenixian Revival" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBPYRO_Skill_PhoenixianAshes" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroPhoenixianRevival" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroPhoenixianRevival" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Resurrect upon death to 25% Vitality." />
+        <field name="DieAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinPyro_PhoenixianRevival_Res" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinPyro_PHOENIXIANFURY" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Phoenixian Fury" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBPYRO_Skill_PhoenixianAshes" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroPhoenixianFury" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroPhoenixianFury" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Upon death the character will explode, dealing devastating fire damage to nearby enemies." />
+        <field name="DieAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinPyro_PhoenixianFury" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinPyro_BURNINGTOUCH_PROC" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinPyro_PROC_SCORCH" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_WATERSOFLIFE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Waters Of Life" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBHYDRO_Skill_WatersOfLife" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="23" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_HealingTears_01;RS3_FX_GP_Status_HealingTears_Target_01" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_HealingTears" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_HealingTears" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="AuraRadius" type="IntegerStatObjectFieldDefinition" value="3" />
+        <field name="AuraAllies" type="StringStatObjectFieldDefinition" value="OdinWater_WATERSOFLIFE_PROC" />
+        <field name="AuraSelf" type="StringStatObjectFieldDefinition" value="OdinWater_WATERSOFLIFE_PROC" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinPyro_EXQUISITEFIRECRAFT" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Exquisite Firecraft" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="Skill_Fire_FlamingTongues" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_FlamingTongues_01;RS3_FX_GP_Status_FlamingTongues_Target_01" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_FlamingTongues" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_FlamingTongues" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="AuraRadius" type="IntegerStatObjectFieldDefinition" value="3" />
+        <field name="AuraAllies" type="StringStatObjectFieldDefinition" value="FIRE_IMMUNITY" />
+        <field name="AuraSelf" type="StringStatObjectFieldDefinition" value="FIRE_IMMUNITY" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Flames protect your team." />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_CONDUCTIVE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Conductive" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character is a conduit for electrical skills." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBAERO_Skill_Conduit" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="33" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinAero_Status_Conductive_01" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinAERO_Conductive" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinAERO_Conductive" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_PROC_CONDUCTIVE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_PROC_CONDUCTIVE_DAMAGE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="LeaveAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinAERO_Conductive_Damage" />
+        <field name="DieAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinAERO_Conductive_Damage" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_PROC_CONDUCTIVE_DAZE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_PROC_CONDUCTIVE_DAZE_DAMAGE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="LeaveAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinAERO_Conductive_Daze_Damage" />
+        <field name="DieAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinAERO_Conductive_Daze_Damage" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_PROC_CONDUCTIVE_LOW" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_PROC_CONDUCTIVE_LOW_DAMAGE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="LeaveAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinAERO_Conductive_Low_Damage" />
+        <field name="DieAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinAERO_Conductive_Low_Damage" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_PROC_RANDOMCLOUD" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_PROC_MAGBLEED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinCORE_LOSTFOOTING" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Lost Footing" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character will become Knocked Down if their footing is lost again." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBCORE_Status_LostFooting" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="3" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinCORE_LostFooting" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinCORE_LostFooting" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinCORE_PROC_LOSTFOOTING" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_GRAVITY" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Gravity" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBAERO_Status_Gravity" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="22" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinAERO_Gravity" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinAERO_Gravity" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_THUNDERBRAND" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Thunderbrand" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBAERO_Skill_Thunderbrand" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="22" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_Skills_Air_Lightning_Prepare_Hand_01:Dummy_L_HandFX,Dummy_R_HandFX;OdinWater_WeaponOverlay_01;" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinAERO_Thunderbrand" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinBrand" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_HAZED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Hazed" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBAERO_Skill_Haze" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="3" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinAero_Status_Hazed_01:Dummy_StatusFX" />
+        <field name="ImmuneFlag" type="EnumerationStatObjectFieldDefinition" value="14" enumeration_type_name="AttributeFlag" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinAERO_Hazed" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinAERO_Hazed" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_INSULATIONSHIELD" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Insulation Shield" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBAERO_Skill_InsulationShield" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="22" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Shocked_01:Dummy_OverheadFX" />
+        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="MaterialType" />
+        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinAERO_InsulationShield" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinAERO_InsulationShield" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_PROC_CONDUCTIONTHERAPY" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_PROC_NIMBUSVEIL" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_PROC_VOLTASSAULT" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinAERO_HAWKEYE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Hawkeye" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character has increased range. &lt;br&gt;&lt;br&gt;&lt;font color='#40b606'&gt;Range +2m&lt;/font&gt;" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBAERO_Status_Hawkeye" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="22" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinAero_Status_Hawkeye_01:Dummy_OverheadFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinAERO_Hawkeye" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinAERO_Hawkeye" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinCORE_PROC_DOUBLE_LOSTFOOTING" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinGEO_Corruption" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Corrupted" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character will take damage from &lt;font color='#65C900'&gt;poison&lt;/font&gt; attacks, surfaces, and statuses." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBGEO_Status_Corrupted" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="26" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Fear_01:Dummy_BodyFX;OdinGEO_Status_Corrupted_02:Dummy_StatusFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinGEO_Corruption" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinGEO_Corruption" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinGEO_Corruption_End" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinGEO_Spored" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Spored" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character is currently affected by debilitating &lt;font color='#65C900'&gt;spores&lt;/font&gt;." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBGEO_Skill_SporeShrooms" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="20" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Fear_01:Dummy_BodyFX;OdinGEO_Status_Corrupted_02:Dummy_StatusFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinGEO_Spored" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinGEO_Spored" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinGEO_PROC_CRIPPLED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinGEO_PROC_EARTHQUAKE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinGEO_Oiled" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Oiled" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character is covered in &lt;font color='#7f3d00'&gt;oil&lt;/font&gt;." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBGEO_Status_Oiled" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="16" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinGEO_Status_Oiled_01:Dummy_BodyFX;" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinGEO_Oiled" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinGEO_Oiled" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinGEO_GranitePlating" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Granite Plating" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Maximum Physical Armor increased." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBGEO_Skill_GranitePlating" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="15" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Fortified_01:Dummy_BodyFX" />
+        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="MaterialType" />
+        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="3000" />
+        <field name="MaterialParameters" type="StringStatObjectFieldDefinition" value="CharacterHeight:Height" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinGEO_GranitePlating" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinGEO_GranitePlating" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinGEO_PROC_Expunge" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinGEO_Ironbark" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Ironbark" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character is taking reduced damage." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBGEO_Status_Ironbark" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="21" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_BarkSkin_01:Dummy_BodyFX" />
+        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="MaterialType" />
+        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="3000" />
+        <field name="MaterialParameters" type="StringStatObjectFieldDefinition" value="CharacterHeight:Height" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinGEO_Ironbark" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinGEO_Ironbark" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinGEO_Earthbrand" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Earthbrand" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBGEO_Skill_Oilbrand" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="21" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinGEO_Status_Earthbrand_01:Dummy_L_HandFX,Dummy_R_HandFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinGEO_Earthbrand" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinBrand" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinGEO_ParasiticAffliction" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Parasitic Affliction" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character is infected with parasites." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBGEO_Skill_ParasiticAffliction" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="20" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinGEO_Status_ParasiticAffliction_01:Dummy_OverheadFX" />
+        <field name="LeaveAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinGEO_ParasiticAffliction_Explosion" />
+        <field name="DieAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinGEO_ParasiticAffliction_Explosion" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_ICYVEINS" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Icy Veins" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBHYDRO_Skill_IcyVeins" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="7" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_Skills_Water_FrostyShell_PrepareHand_01:Dummy_L_HandFX,Dummy_R_HandFX" />
+        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="3000" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinWater_IcyVeins" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinCore_Veins" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Allows you to apply &lt;font color=&quot;#cfecff&quot;&gt;Hypothermia&lt;/font&gt; regardless of whether your targets are &lt;font color=&quot;#cfecff&quot;&gt;Chilled&lt;/font&gt;, &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt;, or have &lt;font color=&quot;#188ede&quot;&gt;Magic Armour&lt;/font&gt;." />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinWater_ICEARMOUR" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Ice Barrier" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Ice forms a protective barrier around you." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBHYDRO_Status_ICEARMOUR" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="7" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinWater_Status_IceArmour,KeepRot:Dummy_BodyFX;" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinWater_IceArmour" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinWater_IceArmour" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_PROC_DECAYING" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_OVERLORD" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Overlord" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character has &lt;font color='#7F25D4'&gt;+3 Summon Count&lt;/font&gt;. &lt;br&gt;This status dissipates upon conjuring a &lt;font color='#88a25b'&gt;Non-Undead&lt;/font&gt; &lt;font color='#7F25D4'&gt;Summon&lt;/font&gt;." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBNECRO_Skill_UndeadOverlord" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="31" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinNECRO_Status_Overlord_Crown_01:Dummy_HornFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_OVERLORD" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_OVERLORD" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_OVERLORD_SUMMON" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Overlord Minion" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBNECRO_Status_Overlord_Minion" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="31" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_OVERLORD_SUMMON" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_OVERLORD_SUMMON" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinNECRO_Status_Overlord_Minion_01:Dummy_StatusFX" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_OVERLORD_INTERIM" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Overlord" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character has &lt;font color='#7F25D4'&gt;+3 Summon Count&lt;/font&gt;. &lt;br&gt;This status dissipates upon conjuring a &lt;font color='#88a25b'&gt;Non-Undead&lt;/font&gt; &lt;font color='#7F25D4'&gt;Summon&lt;/font&gt;." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBNECRO_Skill_UndeadOverlord" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="31" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinNECRO_Status_Overlord_Crown_01:Dummy_HornFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_OVERLORD" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_OVERLORD_INTERIM" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_DESECRATE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Desecrated" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Temporarily stripped of &lt;font color=&quot;#97fbff&quot;&gt;Magic Armour&lt;/font&gt;." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBNECRO_Skill_Desecrate" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="26" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinNECRO_Status_Desecrate_01:Dummy_BodyFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_DESECRATE" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_DESECRATE" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_RUPTURE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Ruptured" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBNECRO_Skill_MysticRupture" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="26" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_NullResistanc_01,KeepRot:Dummy_BodyFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_RUPTURE" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="NullRes" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Resistances are lowered." />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_ARCANEPUNISHMENT" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Arcane Punishment" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character will take damage each time they cast a skill." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBNECRO_Skill_ArcanePunishment" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="26" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinNECRO_Status_ArcanePunishment_01:Dummy_OverheadFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_ARCANEPUNISHMENT" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_ARCANEPUNISHMENT" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_HEXSKILL_MUTE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="LeaveAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinNECRO_Mute_Damage" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Hex" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_HEXSKILL_HORRIFICSCREAM" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="LeaveAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinNECRO_HorrificScream_Damage" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Hex" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_HEXSKILL_WITCHESBREW" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="LeaveAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinNECRO_WitchesBrew_Damage" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Hex" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_HEXSKILL_BLACKSHROUD" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="LeaveAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinNECRO_BlackShroud_Damage" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Hex" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_OATHOFDESECRATION" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Oath of Desecration" />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBNECRO_Skill_OathOfDesecration" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="26" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinNECRO_Status_OathOfDesecration_01:Dummy_BodyFX" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_OATHOFDESECRATION" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_OATHOFDESECRATION" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character has been embued with power." />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_DEBUG_AP_ADD" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_DEBUG_AP_ADD" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_DEBUG_AP" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_DEBUG_AP_REMOVE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_DEBUG_AP_REMOVE" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_DEBUG_AP" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_HEXSKILL_ARCANEVOLLEY" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="LeaveAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinNECRO_ArcaneVolley_Damage" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="34" enumeration_type_name="SavingThrow" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Hex" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_INFECTED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Infected" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Nearby &lt;font color='#88a25b'&gt;allied&lt;/font&gt; characters without &lt;font color='#a8a8a8'&gt;Physical Armour&lt;/font&gt; within 5m become &lt;font color=&quot;#c9aa58&quot;&gt;Diseased&lt;/font&gt;, getting the same debuffs as &lt;font color=&quot;#c9aa58&quot;&gt;Infected&lt;/font&gt;." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="statIcons_Infectious_Disease" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="4" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Diseased_01:Dummy_BodyFX" />
+        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="MaterialType" />
+        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="3000" />
+        <field name="SoundStart" type="StringStatObjectFieldDefinition" value="Status_Tex_Diseased_Start" />
+        <field name="SoundLoop" type="StringStatObjectFieldDefinition" value="Status_Tex_Diseased_Loop" />
+        <field name="SoundStop" type="StringStatObjectFieldDefinition" value="Status_Tex_Diseased_Stop" />
+        <field name="SavingThrow" type="EnumerationStatObjectFieldDefinition" value="33" enumeration_type_name="SavingThrow" />
+        <field name="ImmuneFlag" type="EnumerationStatObjectFieldDefinition" value="19" enumeration_type_name="AttributeFlag" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_Infectious_Diseased" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stats_Infectious_Diseased" />
+        <field name="AuraRadius" type="IntegerStatObjectFieldDefinition" value="5" />
+        <field name="AuraAllies" type="StringStatObjectFieldDefinition" value="DISEASED" />
+        <field name="AuraFX" type="StringStatObjectFieldDefinition" value="OdinNECRO_Status_Infected_Radius_01" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_CORPSE_AP_ADD" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_DEBUG_AP_ADD" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_HEXSKILL_OPHIDIANGLARE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="LeaveAction" type="StringStatObjectFieldDefinition" value="Projectile_OdinNECRO_OphidianGlare_Damage" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Hex" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_Weapon_Overlay_Wands" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinNECRO_WeaponOverlay_Hands_01:Dummy_L_Hand,Dummy_R_HandFX;OdinNECRO_WeaponOverlay_Hands_02:Dummy_L_Hand,Dummy_R_HandFX;RS3_FX_Items_Weapons_DamageType_Blood_Overlay_01;" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Bloodthirsty (+5% Life Steal)" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_WEAPON_VAMPIRISM" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_WEAPON" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="                                                                                                                                                             " />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_Weapon_Overlay_Staves" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinNECRO_WeaponOverlay_Hands_01:Dummy_R_HandFX;OdinNECRO_WeaponOverlay_Hands_02:Dummy_R_HandFX;RS3_FX_Items_Weapons_DamageType_Blood_Overlay_01;" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Bloodthirsty (+5% Life Steal)" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_WEAPON_VAMPIRISM" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_WEAPON" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="                                                                                                                                                             " />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_REANIMATOR" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Reanimator" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="The next time you kill a &lt;font color='#88a25b'&gt;non-allied&lt;/font&gt; character, raise a &lt;font color='#7F25D4'&gt;Totemic Zombie&lt;/font&gt;." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBNECRO_Skill_ShallowGrave" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="31" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_Skills_Prepare_Voodoo_Prepare_Hand_01:Dummy_L_HandFX,Dummy_R_HandFX;" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_REANIMATOR" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_REANIMATOR" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_APPLY_DESECRATE" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_APPLY_LOCUSTS" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_BLOODARMOUR" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Blood Armour" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Each time you &lt;font color='#B823CB'&gt;sacrifice Vitality&lt;/font&gt; for a &lt;font color='#D7001F'&gt;Bloodtide&lt;/font&gt; spell, you restore &lt;font color=&quot;#a8a8a8&quot;&gt;Physical Armour&lt;/font&gt; equal to the sacrifice percentage." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBNECRO_Skill_CoagulatedArmour" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="26" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinNECRO_Status_BloodArmour_01:Dummy_BodyFX;" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_BLOODARMOUR" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_BLOODARMOUR" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_FRENZIED" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Frenzied" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Each time you &lt;font color='#B823CB'&gt;sacrifice Vitality&lt;/font&gt; for a &lt;font color='#D7001F'&gt;Bloodtide&lt;/font&gt; spell, you restore &lt;font color=&quot;#a8a8a8&quot;&gt;Physical Armour&lt;/font&gt; equal to the sacrifice percentage." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBNECRO_Skill_FrenzyOfTheRestless" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="31" enumeration_type_name="FormatStringColor" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinNECRO_Status_BloodArmour_01:Dummy_BodyFX;" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_FRENZIED" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_FRENZIED" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinCORE_NPC_Illusion" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinCORE_Status_Illusion_01:Dummy_StatusFX" />
+        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="MaterialType" />
+        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
+        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="3000" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="OdinNECRO_TRANSFIXED_IMMUNITY" />
+        <field name="ForGameMaster" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="InitiateCombat" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
+        <field name="DisplayName" type="TranslatedStringStatObjectFieldDefinition" value="Fearless" />
+        <field name="Description" type="TranslatedStringStatObjectFieldDefinition" value="Character is immune to the &lt;font color='#C7A758'&gt;Terrified&lt;/font&gt; and &lt;font color='#C7A758'&gt;Transfixed&lt;/font&gt; statuses." />
+        <field name="Icon" type="StringStatObjectFieldDefinition" value="OBNECRO_Status_Fearless" />
+        <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="15" enumeration_type_name="FormatStringColor" />
+        <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinNECRO_TRANSFIXED_IMMUNITY" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinNECRO_TRANSFIXED" />
+        <field name="StackPriority" type="IntegerStatObjectFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
