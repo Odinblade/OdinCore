@@ -8,8 +8,7 @@ SourceControlGenerator.json
 
 # Story files        #
 ######################
-*.div
-*.raw
+
 
 # Asset Folders      #
 ######################
