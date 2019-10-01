@@ -404,15 +404,7 @@
         <field name="DescriptionParams" type="StringStatObjectFieldDefinition" value="Damage" />
         <field name="Icon" type="StringStatObjectFieldDefinition" value="OBPYRO_Status_Scorch_1" />
         <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
-        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Burning_01" />
-        <field name="StatusEffectOverrideForItems" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Item_Burning_01" />
-        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="MaterialType" />
-        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
-        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="2000" />
-        <field name="MaterialOverlayOffset" type="IntegerStatObjectFieldDefinition" value="10000" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinPyro_Status_Scorch_01" />
         <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroBurning1" />
         <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroBurning" />
         <field name="DamageEvent" type="EnumerationStatObjectFieldDefinition" value="6" enumeration_type_name="StatusEvent" />
@@ -434,15 +426,7 @@
         <field name="DescriptionParams" type="StringStatObjectFieldDefinition" value="Damage" />
         <field name="Icon" type="StringStatObjectFieldDefinition" value="OBPYRO_Status_Scorch_2" />
         <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
-        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Burning_01" />
-        <field name="StatusEffectOverrideForItems" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Item_Burning_01" />
-        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="MaterialType" />
-        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
-        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="2000" />
-        <field name="MaterialOverlayOffset" type="IntegerStatObjectFieldDefinition" value="10000" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinPyro_Status_Scorch_02" />
         <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroBurning2" />
         <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroBurning" />
         <field name="DamageEvent" type="EnumerationStatObjectFieldDefinition" value="6" enumeration_type_name="StatusEvent" />
@@ -464,15 +448,7 @@
         <field name="DescriptionParams" type="StringStatObjectFieldDefinition" value="Damage" />
         <field name="Icon" type="StringStatObjectFieldDefinition" value="OBPYRO_Status_Scorch_3" />
         <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
-        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Burning_01" />
-        <field name="StatusEffectOverrideForItems" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Item_Burning_01" />
-        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="MaterialType" />
-        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
-        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="2000" />
-        <field name="MaterialOverlayOffset" type="IntegerStatObjectFieldDefinition" value="10000" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinPyro_Status_Scorch_03" />
         <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroBurning3" />
         <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroBurning" />
         <field name="DamageEvent" type="EnumerationStatObjectFieldDefinition" value="6" enumeration_type_name="StatusEvent" />
@@ -494,15 +470,7 @@
         <field name="DescriptionParams" type="StringStatObjectFieldDefinition" value="Damage" />
         <field name="Icon" type="StringStatObjectFieldDefinition" value="OBPYRO_Status_Scorch_4" />
         <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
-        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Burning_01" />
-        <field name="StatusEffectOverrideForItems" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Item_Burning_01" />
-        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="MaterialType" />
-        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
-        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="2000" />
-        <field name="MaterialOverlayOffset" type="IntegerStatObjectFieldDefinition" value="10000" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinPyro_Status_Scorch_04" />
         <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroBurning4" />
         <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroBurning" />
         <field name="DamageEvent" type="EnumerationStatObjectFieldDefinition" value="6" enumeration_type_name="StatusEvent" />
@@ -524,15 +492,7 @@
         <field name="DescriptionParams" type="StringStatObjectFieldDefinition" value="Damage" />
         <field name="Icon" type="StringStatObjectFieldDefinition" value="OBPYRO_Status_Scorch_5" />
         <field name="FormatColor" type="EnumerationStatObjectFieldDefinition" value="24" enumeration_type_name="FormatStringColor" />
-        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Burning_01" />
-        <field name="StatusEffectOverrideForItems" type="StringStatObjectFieldDefinition" value="RS3_FX_GP_Status_Item_Burning_01" />
-        <field name="MaterialType" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="MaterialType" />
-        <field name="MaterialApplyBody" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyArmor" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyWeapon" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
-        <field name="MaterialApplyNormalMap" type="EnumerationStatObjectFieldDefinition" value="0" enumeration_type_name="YesNo" />
-        <field name="MaterialFadeAmount" type="IntegerStatObjectFieldDefinition" value="2000" />
-        <field name="MaterialOverlayOffset" type="IntegerStatObjectFieldDefinition" value="10000" />
+        <field name="StatusEffect" type="StringStatObjectFieldDefinition" value="OdinPyro_Status_Scorch_05" />
         <field name="StatsId" type="StringStatObjectFieldDefinition" value="Stats_OdinPyroBurning5" />
         <field name="StackId" type="StringStatObjectFieldDefinition" value="Stack_OdinPyroBurning" />
         <field name="DamageEvent" type="EnumerationStatObjectFieldDefinition" value="6" enumeration_type_name="StatusEvent" />

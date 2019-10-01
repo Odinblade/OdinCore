@@ -380,6 +380,12 @@
                         "GameData" : [
                            {
                               "AiPersonalities" : [ {} ],
+                              "Animations" : [
+                                 {
+                                    "Animation" : {"type" : 23, "value" : "Curtsey_01"},
+                                    "Speaker" : {"type" : 3, "value" : 0}
+                                 }
+                              ],
                               "CameraTarget" : {"type" : 4, "value" : -1},
                               "CustomMovie" : {"type" : 23, "value" : ""},
                               "Emotion" : {"type" : 23, "value" : "Default"},
@@ -1000,7 +1006,7 @@
                                                 "TagText" : {
                                                    "handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
                                                    "type" : 28,
-                                                   "value" : "<b>[ON]</b> I would like Odinblade vendors to be present in the world."
+                                                   "value" : "<b>[ON]</b> I would like Odinblade Overhaul vendors to be present in the world."
                                                 },
                                                 "stub" : {"type" : 19, "value" : 1}
                                              }
@@ -1743,7 +1749,7 @@
                                                 "TagText" : {
                                                    "handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
                                                    "type" : 28,
-                                                   "value" : "Current status: [OdinCORE_CustomVendors_Value_5df00af8-4e59-4a8c-82a8-094aba487ad2]<br>Vendors are included with Odinblade's Overhauls and Class mods, as well as having their weapons and skills available to vanilla vendors. Would you like the new vendors to be <b>ON </b>or <b>OFF</b>?"
+                                                   "value" : "Current status: [OdinCORE_CustomVendors_Value_5df00af8-4e59-4a8c-82a8-094aba487ad2]<br>Vendors are included with Odinblade's Overhaul mods, as well as having their weapons and skills available to vanilla vendors. Would you like the new Overhaul vendors to be <b>ON </b>or <b>OFF</b>?"
                                                 },
                                                 "stub" : {"type" : 19, "value" : 1}
                                              }
@@ -1855,7 +1861,7 @@
                                                 "TagText" : {
                                                    "handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
                                                    "type" : 28,
-                                                   "value" : "<b>[OFF]</b> I would not like Odinblade vendors to be present in the world."
+                                                   "value" : "<b>[OFF]</b> I would not like Odinblade Overhaul vendors to be present in the world."
                                                 },
                                                 "stub" : {"type" : 19, "value" : 1}
                                              }
@@ -2892,7 +2898,7 @@
          },
          "editorData" : {
             "needLayout" : {"type" : 19, "value" : 0},
-            "nextNodeId" : {"type" : 5, "value" : 82}
+            "nextNodeId" : {"type" : 5, "value" : 94}
          }
       }
    }
