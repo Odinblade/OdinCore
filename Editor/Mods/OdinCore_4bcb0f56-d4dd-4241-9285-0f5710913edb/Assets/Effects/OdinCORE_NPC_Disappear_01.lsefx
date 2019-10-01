@@ -8842,64 +8842,24 @@
     </trackgroup>
     <trackgroup name="AUDIO">
       <ids>
-        <id value="9" />
+        <id value="7" />
       </ids>
-      <track name="Track" muted="True" locked="False" mutestateoverride="None">
-        <component class="Sound" start="0" end="6.5" instancename="35425284-4cc1-4e1d-be8a-e12127525721">
-          <properties>
-            <property id="ef1d7d1e-02b6-4548-80d9-5ef2fbcda237">
-              <data>
-                <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="Sound" />
-              </data>
-            </property>
-            <property id="035b5248-d0ca-44b7-853f-3acb84110e67">
-              <data>
-                <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="0,6.5" />
-              </data>
-            </property>
-            <property id="d9c8f8f4-03ef-4a81-afcc-9979213be536">
-              <data>
-                <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="Skill_Fire_FireWhip_Impact &lt;19cff384-7352-4620-8421-e714be14e7de&gt;" />
-              </data>
-            </property>
-            <property id="83f4fce2-68bb-41eb-b2fe-9082b8fc9147">
-              <data>
-                <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="" />
-              </data>
-            </property>
-            <property id="d719a367-01a3-44b3-a94d-830503c01095">
-              <data>
-                <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="-1" />
-              </data>
-            </property>
-            <property id="d44a643d-e831-4fc6-b8ab-c13e52162f34">
-              <data>
-                <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="0" />
-              </data>
-            </property>
-            <propertygroup id="8ee4dbdf-025a-40a7-b045-d05d5685bcee" name="Property Group" collapsed="False" />
-          </properties>
-          <modules>
-            <module id="286df729-035e-4bb8-a210-c836ddbbbacc" muted="False" index="0" />
-          </modules>
-        </component>
-      </track>
       <track name="Track" muted="False" locked="False" mutestateoverride="None">
-        <component class="Sound" start="-0.00038" end="6.5" instancename="8af2e368-d352-4c5b-80f6-ff3d9a9167b7">
+        <component class="Sound" start="0" end="7.905879" instancename="e0073dd7-fd58-428b-bd8d-a2d192cf4196">
           <properties>
             <property id="ef1d7d1e-02b6-4548-80d9-5ef2fbcda237">
               <data>
-                <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="Sound" />
+                <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="Sound 7.90" />
               </data>
             </property>
             <property id="035b5248-d0ca-44b7-853f-3acb84110e67">
               <data>
-                <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="-0.00038,6.5" />
+                <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="0,7.905879" />
               </data>
             </property>
             <property id="d9c8f8f4-03ef-4a81-afcc-9979213be536">
               <data>
-                <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="Skill_Fire_InfectiousFlame_Impact &lt;8a2b3b4f-13a9-4708-a96f-4f7555197e35&gt;" />
+                <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="Skill_Air_Vaporize_Impact &lt;f3a3c940-a7cd-46ba-ba01-86614191f254&gt;" />
               </data>
             </property>
             <property id="83f4fce2-68bb-41eb-b2fe-9082b8fc9147">
@@ -8907,17 +8867,17 @@
                 <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="" />
               </data>
             </property>
-            <property id="d719a367-01a3-44b3-a94d-830503c01095">
-              <data>
-                <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="-1" />
-              </data>
-            </property>
             <property id="d44a643d-e831-4fc6-b8ab-c13e52162f34">
               <data>
                 <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="0" />
               </data>
             </property>
-            <propertygroup id="690fe3dc-d315-4360-9f05-05f99c45a372" name="Property Group" collapsed="False" />
+            <property id="d719a367-01a3-44b3-a94d-830503c01095">
+              <data>
+                <datum platform="00000000-0000-0000-0000-000000000000" lod="00000000-0000-0000-0000-000000000000" value="-1" />
+              </data>
+            </property>
+            <propertygroup id="6b1c91eb-6b48-486c-bee7-5b2766864142" name="Property Group" collapsed="False" />
           </properties>
           <modules>
             <module id="286df729-035e-4bb8-a210-c836ddbbbacc" muted="False" index="0" />

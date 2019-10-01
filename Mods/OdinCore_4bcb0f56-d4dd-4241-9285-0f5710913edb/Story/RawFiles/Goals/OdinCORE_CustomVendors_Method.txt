@@ -43,7 +43,10 @@ IF
 GlobalFlagCleared("OdinCORE_CustomVendors_Setting")
 AND
 DB_OBCORE_CustomVendor(_Vendor, _Dialog)
+AND
+GetPosition(_Vendor, _X, _Y, _Z)
 THEN
+PlayEffectAtPosition("OdinCORE_NPC_Disappear_02", _X, _Y, _Z);
 DialogRequestStopForDialog(_Dialog, (CHARACTERGUID)_Vendor);
 SetOnStage(_Vendor, 0);
 
