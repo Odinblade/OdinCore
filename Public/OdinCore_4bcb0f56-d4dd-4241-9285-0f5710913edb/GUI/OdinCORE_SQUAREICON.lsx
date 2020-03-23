@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <save>
     <header version="2" />
-    <version major="3" minor="6" revision="3" build="1" />
+    <version major="3" minor="6" revision="6" build="0" />
     <region id="IconUVList">
         <node id="root">
             <children>
@@ -172,6 +172,55 @@
                     <attribute id="U2" value="0.812378" type="6" />
                     <attribute id="V1" value="0.0313721" type="6" />
                     <attribute id="V2" value="0.0467529" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBBSS_Skill_DesignateRedirection" type="22" />
+                    <attribute id="U1" value="0.0626221" type="6" />
+                    <attribute id="U2" value="0.0780029" type="6" />
+                    <attribute id="V1" value="0.0626221" type="6" />
+                    <attribute id="V2" value="0.0780029" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBBSS_Status_Boon_Aggrevation" type="22" />
+                    <attribute id="U1" value="0.968872" type="6" />
+                    <attribute id="U2" value="0.984253" type="6" />
+                    <attribute id="V1" value="0.0469971" type="6" />
+                    <attribute id="V2" value="0.0623779" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBBSS_Status_Boon_Artillery" type="22" />
+                    <attribute id="U1" value="0.984497" type="6" />
+                    <attribute id="U2" value="0.999878" type="6" />
+                    <attribute id="V1" value="0.0469971" type="6" />
+                    <attribute id="V2" value="0.0623779" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBBSS_Status_Boon_Chaos" type="22" />
+                    <attribute id="U1" value="0.0313721" type="6" />
+                    <attribute id="U2" value="0.0467529" type="6" />
+                    <attribute id="V1" value="0.0626221" type="6" />
+                    <attribute id="V2" value="0.0780029" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBBSS_Status_Boon_Mending" type="22" />
+                    <attribute id="U1" value="0.00012207" type="6" />
+                    <attribute id="U2" value="0.0155029" type="6" />
+                    <attribute id="V1" value="0.0626221" type="6" />
+                    <attribute id="V2" value="0.0780029" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBBSS_Status_Boon_Redirection" type="22" />
+                    <attribute id="U1" value="0.0157471" type="6" />
+                    <attribute id="U2" value="0.0311279" type="6" />
+                    <attribute id="V1" value="0.0626221" type="6" />
+                    <attribute id="V2" value="0.0780029" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBBSS_Status_Boon_Voracity" type="22" />
+                    <attribute id="U1" value="0.0469971" type="6" />
+                    <attribute id="U2" value="0.0623779" type="6" />
+                    <attribute id="V1" value="0.0626221" type="6" />
+                    <attribute id="V2" value="0.0780029" type="6" />
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" value="OBCORE_Status_LostFooting" type="22" />
@@ -373,6 +422,90 @@
                     <attribute id="MapKey" value="OBGEO_Status_Squirrel" type="22" />
                     <attribute id="U1" value="0.0938721" type="6" />
                     <attribute id="U2" value="0.109253" type="6" />
+                    <attribute id="V1" value="0.0469971" type="6" />
+                    <attribute id="V2" value="0.0623779" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBHUN_Skill_AnimalCompanion" type="22" />
+                    <attribute id="U1" value="0.796997" type="6" />
+                    <attribute id="U2" value="0.812378" type="6" />
+                    <attribute id="V1" value="0.0469971" type="6" />
+                    <attribute id="V2" value="0.0623779" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBHUN_Skill_Camouflage" type="22" />
+                    <attribute id="U1" value="0.890747" type="6" />
+                    <attribute id="U2" value="0.906128" type="6" />
+                    <attribute id="V1" value="0.0469971" type="6" />
+                    <attribute id="V2" value="0.0623779" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBHUN_Skill_Dismiss_AnimalCompanion" type="22" />
+                    <attribute id="U1" value="0.921997" type="6" />
+                    <attribute id="U2" value="0.937378" type="6" />
+                    <attribute id="V1" value="0.0469971" type="6" />
+                    <attribute id="V2" value="0.0623779" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBHUN_Skill_HuntersTrap" type="22" />
+                    <attribute id="U1" value="0.906372" type="6" />
+                    <attribute id="U2" value="0.921753" type="6" />
+                    <attribute id="V1" value="0.0469971" type="6" />
+                    <attribute id="V2" value="0.0623779" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBHUN_Skill_NaturalBond" type="22" />
+                    <attribute id="U1" value="0.812622" type="6" />
+                    <attribute id="U2" value="0.828003" type="6" />
+                    <attribute id="V1" value="0.0469971" type="6" />
+                    <attribute id="V2" value="0.0623779" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBHUN_Skill_NowhereToHide" type="22" />
+                    <attribute id="U1" value="0.843872" type="6" />
+                    <attribute id="U2" value="0.859253" type="6" />
+                    <attribute id="V1" value="0.0469971" type="6" />
+                    <attribute id="V2" value="0.0623779" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBHUN_Skill_PowerShot" type="22" />
+                    <attribute id="U1" value="0.828247" type="6" />
+                    <attribute id="U2" value="0.843628" type="6" />
+                    <attribute id="V1" value="0.0469971" type="6" />
+                    <attribute id="V2" value="0.0623779" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBHUN_Skill_PrimalRoar" type="22" />
+                    <attribute id="U1" value="0.937622" type="6" />
+                    <attribute id="U2" value="0.953003" type="6" />
+                    <attribute id="V1" value="0.0469971" type="6" />
+                    <attribute id="V2" value="0.0623779" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBHUN_Skill_SavvyHunter" type="22" />
+                    <attribute id="U1" value="0.953247" type="6" />
+                    <attribute id="U2" value="0.968628" type="6" />
+                    <attribute id="V1" value="0.0469971" type="6" />
+                    <attribute id="V2" value="0.0623779" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBHUN_Skill_SeekingArrows" type="22" />
+                    <attribute id="U1" value="0.875122" type="6" />
+                    <attribute id="U2" value="0.890503" type="6" />
+                    <attribute id="V1" value="0.0469971" type="6" />
+                    <attribute id="V2" value="0.0623779" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBHUN_Skill_TheHunt" type="22" />
+                    <attribute id="U1" value="0.859497" type="6" />
+                    <attribute id="U2" value="0.874878" type="6" />
+                    <attribute id="V1" value="0.0469971" type="6" />
+                    <attribute id="V2" value="0.0623779" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="OBHUN_Status_Nimble" type="22" />
+                    <attribute id="U1" value="0.781372" type="6" />
+                    <attribute id="U2" value="0.796753" type="6" />
                     <attribute id="V1" value="0.0469971" type="6" />
                     <attribute id="V2" value="0.0623779" type="6" />
                 </node>
