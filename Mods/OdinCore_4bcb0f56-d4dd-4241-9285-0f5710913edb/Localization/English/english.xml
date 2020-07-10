@@ -31,10 +31,6 @@
 	<content contentuid="hcfddd6a9g5192g4590ga7f3ga3625b5ab512" Source="OdinCORE_OdinNPC_01.lsj">My, you are a curious one aren&apos;t you?</content>
 	<content contentuid="h064bf4d2g24dag40c0g9d81gc8949b07b2b3" Source="OdinCORE_OdinNPC_01.lsj">I want to change my &lt;b&gt;Enemy Skills&lt;/b&gt; settings.</content>
 	<content contentuid="h087352a2g6ee4g496dg93a4g9b1fbc61ef75" Source="OdinCORE_OdinNPC_01.lsj">Can I help you with anything?</content>
-	<content contentuid="h02dd8b0eg59bfg4ca6gbdecgd6fab0e06be6" Source="Status_ACTIVE_DEFENSE_Description.lsb" Key="FLAMING_TONGUES_Description">Approaching hostiles will be blasted with fire damage.</content>
-	<content contentuid="h7bec8f2bg7692g4d4cgb5efgd5f4dd51f981" Source="Status_ACTIVE_DEFENSE_Description.lsb" Key="HEALING_TEARS_Description">Approaching allies will be healed.</content>
-	<content contentuid="h9bc83335ga68dg424bg9646g27a22330c666" Source="Status_ACTIVE_DEFENSE_DisplayName.lsb" Key="FLAMING_TONGUES_DisplayName">Exquisite Firecraft</content>
-	<content contentuid="hf7c0a5a7gc499g4585g9c59ged6b464cf1b5" Source="Status_ACTIVE_DEFENSE_DisplayName.lsb" Key="HEALING_TEARS_DisplayName">Waters of Life</content>
 	<content contentuid="h868aa550g537eg42afgba65g2f2510f0dbf7" Source="Status_ACTIVE_DEFENSE_DisplayName.lsb" Key="OdinPyro_INCADESCENCE_DisplayName">Incadescence</content>
 	<content contentuid="hddd442e5g8a59g4929ga88fg8684384f9c99" Source="Status_CHALLENGE_DisplayName.lsb" Key="SHADE_BladeChallenge">Blade Challenged</content>
 	<content contentuid="h5ee44de9gd6f4g45c0gb14eg1be66446b075" Source="Status_CHALLENGE_DisplayName.lsb" Key="SHADE_BladeChallenge_DisplayName">Blade Challenged</content>
@@ -63,7 +59,6 @@
 	<content contentuid="h49f83ec4g62b5g4a45g9e43g246427ad34c7" Source="Status_CONSUME_Description.lsb" Key="OdinNECRO_Weapon_Overlay_Staves_Description">                                                                                                                                                             </content>
 	<content contentuid="hb0448e85gd8c5g4353gbb68gf7f93d970a92" Source="Status_CONSUME_Description.lsb" Key="OdinNECRO_Weapon_Overlay_Wands_Description">                                                                                                                                                             </content>
 	<content contentuid="heeac5fd6g5b68g4a22g9d56g8379ec80f5a2" Source="Status_CONSUME_Description.lsb" Key="OdinPyro_BLAZING_Description">Mastery of flames at a cost of water weakness.</content>
-	<content contentuid="hc488bba1g8c0eg4f7bg93b4g87846d097b79" Source="Status_CONSUME_Description.lsb" Key="OdinPyro_EXQUISITEFIRECRAFT_Description">Flames protect your team.</content>
 	<content contentuid="he8c3d1e6ga41bg41f3gb57fgabc4755e5a8c" Source="Status_CONSUME_Description.lsb" Key="OdinPyro_FLAMEBELLY_Description">Flames course through your veins.</content>
 	<content contentuid="h8fa01f6cgd411g4ed3gaa00gfbbdab4cbb66" Source="Status_CONSUME_Description.lsb" Key="OdinPyro_PHOENIXIANFURY_Description">Upon death the character will explode, dealing devastating fire damage to nearby enemies.</content>
 	<content contentuid="h034fc38cg7995g4605g9a66g45ae9016edb6" Source="Status_CONSUME_Description.lsb" Key="OdinPyro_PHOENIXIANREVIVAL_Description">Resurrect upon death to 25% Vitality.</content>
@@ -149,7 +144,6 @@
 	<content contentuid="hc2d693f4g2864g4f4egadbeg78ecba869eb1" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_Weapon_Overlay_Staves_DisplayName">Bloodthirsty (+5% Life Steal)</content>
 	<content contentuid="h08fc696cgc5c4g4487gb7c5g1a435c86809b" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_Weapon_Overlay_Wands_DisplayName">Bloodthirsty (+5% Life Steal)</content>
 	<content contentuid="h19fa2d2ag1e29g476eg99d3ge459ea03b109" Source="Status_CONSUME_DisplayName.lsb" Key="OdinPyro_BLAZING_DisplayName">Blazing</content>
-	<content contentuid="hd353095dgba0bg476dgbc54g54fee7c50ecc" Source="Status_CONSUME_DisplayName.lsb" Key="OdinPyro_EXQUISITEFIRECRAFT_DisplayName">Exquisite Firecraft</content>
 	<content contentuid="hea7f5efbg9e88g4474g864fgd11a5adaed35" Source="Status_CONSUME_DisplayName.lsb" Key="OdinPyro_FLAMEBELLY_DisplayName">Flamebelly</content>
 	<content contentuid="h21321aa4gae94g4de9gb761gbb3440334a29" Source="Status_CONSUME_DisplayName.lsb" Key="OdinPyro_INCINERATEPROC_DisplayName">Incinerate</content>
 	<content contentuid="ha2ff6a2bg6941g4f0fga1b4gbd129a191b4a" Source="Status_CONSUME_DisplayName.lsb" Key="OdinPyro_PHOENIXIANFURY_DisplayName">Phoenixian Fury</content>
