@@ -89,6 +89,17 @@ IF
 GlobalFlagCleared("OdinCORE_CustomVendors_Setting")
 THEN
 DialogSetVariableString("OdinCORE_OdinNPC_01", "OdinCORE_CustomVendors_Value_5df00af8-4e59-4a8c-82a8-094aba487ad2", "<font color='#C80030'>OFF</font>");
+
+//Enhanced Summon Scaling
+IF
+GlobalFlagSet("OdinCORE_BSS_Setting")
+THEN
+DialogSetVariableString("OdinCORE_OdinNPC_01", "OdinCORE_BSS_Value_3f4cfb42-3e70-4105-a7f2-52e3eea0576a", "<font color='#40B606'>ON</font>");
+
+IF
+GlobalFlagCleared("OdinCORE_BSS_Setting")
+THEN
+DialogSetVariableString("OdinCORE_OdinNPC_01", "OdinCORE_BSS_Value_3f4cfb42-3e70-4105-a7f2-52e3eea0576a", "<font color='#C80030'>OFF</font>");
 //END_REGION
 EXITSECTION
 
