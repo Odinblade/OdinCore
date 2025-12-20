@@ -1,0 +1,9 @@
+{
+    "RequiredExtensionVersion": 52,
+    "ModTable": "OdinCORE",
+    "FeatureFlags": [
+        "OsirisExtensions",
+        "Lua",
+        "Preprocessor"
+    ]
+}
