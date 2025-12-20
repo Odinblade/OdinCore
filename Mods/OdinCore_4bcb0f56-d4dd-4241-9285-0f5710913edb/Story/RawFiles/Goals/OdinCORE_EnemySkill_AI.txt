@@ -11,12 +11,21 @@ DB_OBCORE_EnemySkill_AI_Status("OdinCORE_AI_ALLY_DEFENSIVE_BUFF_MAJOR");
 KBSECTION
 /* [OSITOOLS_ONLY]
 IF
-NRD_OnStatusAttempt((CHARACTERGUID)_Target, _AIStatus, _Handle, (GUIDSTRING)_Attacker)
+NRD_OnStatusAttempt((CHARACTERGUID)_Target, _Status, _Handle, (GUIDSTRING)_Attacker)
 AND
-DB_OBCORE_EnemySkill_AI_Status(_AIStatus)
+DB_OBCORE_EnemySkill_AI_Status(_Status)
 THEN
 NRD_StatusPreventApply(_Target, _Handle, 1);
 */
+
+// [BEGIN_NO_OSITOOLS]
+IF
+CharacterStatusApplied(_Target, _Status, _Causee)
+AND
+DB_OBCORE_EnemySkill_AI_Status(_Status)
+THEN
+CharacterRemoveStatus(_Target, _Status);
+// [END_NO_OSITOOLS]
 EXITSECTION
 
 ENDEXITSECTION
