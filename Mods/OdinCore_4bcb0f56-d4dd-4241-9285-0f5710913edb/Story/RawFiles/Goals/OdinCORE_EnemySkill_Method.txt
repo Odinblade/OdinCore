@@ -67,6 +67,38 @@ AND
 GlobalGetFlag("OdinCORE_EnemySkills_Aware", 0)
 THEN
 GlobalSetFlag("OdinCORE_EnemySkills_Setting");
+
+
+// Purge EnemySkill entries from save file.
+// Entries will be re-added in by individual mods after loading completes.
+IF
+SavegameLoading(_,_,_,_)
+AND
+DB_OBCORE_EnemySkill_Pair(_OriginalSkill, _NewSkill)
+THEN
+NOT DB_OBCORE_EnemySkill_Pair(_OriginalSkill, _NewSkill);
+
+IF
+SavegameLoading(_,_,_,_)
+AND
+DB_OBCORE_EnemySkill_Pair_Level(_OriginalSkill, _NewSkill, _Level)
+THEN
+NOT DB_OBCORE_EnemySkill_Pair_Level(_OriginalSkill, _NewSkill, _Level);
+
+// Procedure to write EnemySkill entries from mods to DB
+PROC
+PROC_OBCORE_AddEnemySkillEntry((STRING)_OriginalSkill, (STRING)_NewSkill)
+AND
+NOT DB_OBCORE_EnemySkill_Pair(_OriginalSkill, _NewSkill)
+THEN
+DB_OBCORE_EnemySkill_Pair(_OriginalSkill, _NewSkill);
+
+PROC
+PROC_OBCORE_AddEnemySkillEntry((STRING)_OriginalSkill, (STRING)_NewSkill, (INTEGER)_Level)
+AND
+NOT DB_OBCORE_EnemySkill_Pair_Level(_OriginalSkill, _NewSkill, _Level)
+THEN
+DB_OBCORE_EnemySkill_Pair_Level(_OriginalSkill, _NewSkill, _Level);
 EXITSECTION
 
 ENDEXITSECTION
