@@ -24,7 +24,7 @@ CharacterStatusApplied(_Target, _Status, _Causee)
 AND
 DB_OBCORE_EnemySkill_AI_Status(_Status)
 THEN
-CharacterRemoveStatus(_Target, _Status);
+RemoveStatus(_Target, _Status);
 // [END_NO_OSITOOLS]
 EXITSECTION
 
