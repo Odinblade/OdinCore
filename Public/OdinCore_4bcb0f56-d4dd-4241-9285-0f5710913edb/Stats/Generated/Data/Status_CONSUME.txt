@@ -1327,6 +1327,8 @@ type "StatusData"
 data "StatusType" "CONSUME"
 data "ForGameMaster" "No"
 data "InitiateCombat" "No"
+data "StatsId" "Stats_OdinCORE_AI_EXPUNGE"
+data "StackId" "Stats_OdinCORE_AI_EXPUNGE"
 
 new entry "OdinGEO_Ironbark"
 type "StatusData"
