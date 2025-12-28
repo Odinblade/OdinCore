@@ -1,0 +1,8 @@
+new entry "OdinCORE_REFRESH_UI"
+type "StatusData"
+data "StatusType" "MUTED"
+data "ForGameMaster" "No"
+data "InitiateCombat" "No"
+data "DisplayName" " "
+data "Description" ""
+data "Icon" ""
