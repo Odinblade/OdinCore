@@ -68,7 +68,6 @@ GlobalGetFlag("OdinCORE_EnemySkills_Aware", 0)
 THEN
 GlobalSetFlag("OdinCORE_EnemySkills_Setting");
 
-
 // Purge EnemySkill entries from save file.
 // Entries will be re-added in by individual mods after loading completes.
 IF
